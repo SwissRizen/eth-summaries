@@ -1,5 +1,5 @@
 # eth-summaries
-This is a fork of @thomasgasssmann eth-summaries. The contents in this Repository all have modifications suited for my use. Thus the below Overview is from [eth-summaries](https://github.com/thomasgassmann/eth-summaries) by @thomasgassman 
+This is a fork of @thomasgasssmann eth-summaries. The contents in this Repository all have modifications suited for my use. Thus the Overview below is from [eth-summaries](https://github.com/thomasgassmann/eth-summaries) by @thomasgassman 
 
 
 Overview:
